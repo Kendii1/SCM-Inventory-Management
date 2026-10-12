@@ -7,3 +7,4 @@ Live Interactive Dashboard
 Click Here to View the Live Google Sheets System
 Experience the automated reorder logic, inventory segmentation, and real-time KPI tracking for high-value retail.
 
+https://docs.google.com/spreadsheets/d/1pi-65n5sWiRS8G9-ZpBcOv6OWJWOTtqhP-28oUdRzeY/edit
